@@ -5,3 +5,5 @@ signed up for codehs, and completed1 lesson
 print("HELLO WORLD")
 ```
 completed 1 lesson "welcome"
+# 29-aug=2023
+completed 6 lessons on codehs 
