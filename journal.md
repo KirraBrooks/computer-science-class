@@ -17,3 +17,5 @@ completed lessons 2.9 through 2.10 on codehs
 completed lessons 2.11 on codehs
 # 6-sep-2023
 completed lessons 2.12 on codehs
+# 7-sep-2023
+completed lessons 2.13 on codehs
