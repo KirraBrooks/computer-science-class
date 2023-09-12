@@ -23,3 +23,5 @@ completed lessons 2.13 on codehs
 completed lessons 2.14 on codehs
 # 11-sep-2023
 completed lesson 2.15
+# 12-sep-2023
+worked on lessons 2.16 on codehs
