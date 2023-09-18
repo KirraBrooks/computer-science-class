@@ -31,3 +31,5 @@ completed lesson 2.16 worked on 2.17
 completed lesson 2.17 
 # 15-sep-2023
 worked on lesson 2.18
+# 18-sep-2023
+completed on lesson 2.18, and fixed lesson 2.16.5
