@@ -33,3 +33,5 @@ completed lesson 2.17
 worked on lesson 2.18
 # 18-sep-2023
 completed on lesson 2.18, and fixed lesson 2.16.5
+# 20-sep-2023
+completed lesson 2.19 on codehs
