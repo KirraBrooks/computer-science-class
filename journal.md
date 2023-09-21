@@ -34,4 +34,6 @@ worked on lesson 2.18
 # 18-sep-2023
 completed on lesson 2.18, and fixed lesson 2.16.5
 # 20-sep-2023
-completed lesson 2.19 on codehs
+worked lesson 2.19 on codehs
+# 21-sep-2023
+completed lesson 2.19 on codehs. Fixed 2.2, and completed 2.20
