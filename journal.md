@@ -39,3 +39,5 @@ worked lesson 2.19 on codehs
 completed lesson 2.19 on codehs. Fixed 2.2, and completed 2.20
 # 22-sep-2023 
 fixed some lessons, completed lesson 3.1-3.17 on codehs
+# 25- sep-2023
+completed lessons 3.2 and worked on lessons 3.3
