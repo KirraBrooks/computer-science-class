@@ -43,3 +43,6 @@ fixed some lessons, completed lesson 3.1-3.17 on codehs
 completed lessons 3.2 and worked on lessons 3.3
 # 27-sep-2023
 completed lessons 3.3 on codehs
+# 28-sep-2023
+completed lessons 3.4 and worked on lessons 3.5 on codehs
+
