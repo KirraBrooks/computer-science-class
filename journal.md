@@ -46,5 +46,7 @@ completed lessons 3.3 on codehs
 # 28-sep-2023
 completed lessons 3.4 and worked on lessons 3.5 on codehs
 # 29-sep-2023
-completed lessons 3.6 on codehs
+completed lessons 3.5 on codehs
+# 4-oct-2023
+completed lesson 3.6 on codehs
 
