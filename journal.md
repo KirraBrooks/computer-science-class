@@ -53,3 +53,5 @@ completed lesson 3.6 and 3.7 on codehs
 completed lessons 4.1 and 4.2 on codehs.
 # 10-oct-2023
 completed lessons 4.3 on codehs
+# 13-oct-2023
+worked on lessons 4.4 on codehs
