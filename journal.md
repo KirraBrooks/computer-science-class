@@ -59,3 +59,5 @@ worked on lessons 4.4 on codehs
 finished lessons 4.4 on codehs
 # 8-nov-2023
 finshed 4.5 - 5.2 on codehs
+# 14-nov-2023
+finished 5.3 . 5.5 on codehs
